@@ -279,4 +279,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/simple-hubs/contents/
     Callback = function()
 	   loadstring(game:HttpGet("https://raw.githubusercontent.com/Emplic/deathrails/refs/heads/main/bond"))()
   end
+  }
+  
+  AddButton(Tab1o, {
+     Name = "MeoBeo",
+    Callback = function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+  end
   })
