@@ -273,3 +273,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/simple-hubs/contents/
    loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRobloxHop"))()
   end
   })
+  
+  AddButton(Tab1o, {
+     Name = "Emplic",
+    Callback = function()
+	   loadstring(game:HttpGet("https://raw.githubusercontent.com/Emplic/deathrails/refs/heads/main/bond"))()
+  end
+  })
