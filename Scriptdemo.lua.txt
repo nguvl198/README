@@ -282,7 +282,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/simple-hubs/contents/
   }
   
   AddButton(Tab1o, {
-     Name = "MeoBeo",
+     Name = "CokkaHub",
     Callback = function()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
   end
